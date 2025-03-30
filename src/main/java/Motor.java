@@ -6,7 +6,6 @@ public class Motor {
     Baraja baraja;
     Carta[] cartasJugador;
     Carta[] cartasBanca;
-    Scanner sc = new Scanner(System.in);
 
     public Motor() {
         baraja = new Baraja();
